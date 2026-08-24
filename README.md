@@ -67,3 +67,9 @@ Required Skills:
 Candidate Resume:
 [Resume Text Provided Here]
 ```
+
+## Demo Video
+
+[▶️ Watch the Project Demo](https://drive.google.com/file/d/1vU9ME6_dZxHhmCQAEUW0IyK-WpovrZEk/view?usp=drive_link)
+
+The demo showcases the AI-powered resume screening workflow, including resume parsing, candidate evaluation, and application management.
